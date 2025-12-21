@@ -107,3 +107,10 @@ Thumbs.db
 
 # Vercel
 .vercel
+
+# Separate projects (should be deployed independently)
+Chatbot_Numark/
+AI_RNA/
+Books/
+CTO/
+HUlt Prize/
